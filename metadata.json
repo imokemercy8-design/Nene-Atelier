@@ -1,0 +1,6 @@
+{
+  "name": "Nene Atelier",
+  "description": "Mobile-first beauty storefront and makeup appointment booking platform for wigs, press-on nails, and glam sessions in Naira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
